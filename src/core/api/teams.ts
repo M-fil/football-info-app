@@ -1,4 +1,3 @@
-import {AuthHeaders} from '../constants/api';
 import {EnvConfig} from '../constants/envConfig';
 
 export const Urls = {
